@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abhishek Chandra
 
-I'm a Computer Science major at the University of Cincinnati, passionate about building intelligent systems at the intersection of software engineering and Computer-Vision research. I'm thrive on writing clean, maintainable code and design with users in mind.
+I'm a Computer Science major at the University of Cincinnati, passionate about building intelligent systems at the intersection of software engineering and Computer-Vision research. I thrive on writing clean, maintainable code and design with users in mind.
 
 ---
 
@@ -31,8 +31,6 @@ As part of a medical imaging research team, I developed deep learning models (UN
 
 ---
 
----
-
 📬 Feel free to reach out!
-- 📧 Email: [chandra6@mail.uc.edu](mailto:chandra6@mail.uc.edu)
+- 📧 Email: [abhishek.23.01.2005@gmail.com](mailto:abhishek.23.01.2005@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/abhishekchandra123](http://www.linkedin.com/in/abhishekchandra123)
