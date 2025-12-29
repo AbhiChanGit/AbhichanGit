@@ -31,9 +31,6 @@ As part of a medical imaging research team, I developed deep learning models (UN
 
 ---
 
-## Activity:
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiChanGIt&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 📬 Feel free to reach out!
